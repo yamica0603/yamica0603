@@ -1,4 +1,4 @@
-<img  alt="ML" width = 400 src = "[https://cdn-images-1.medium.com/v2/resize:fit:2600/0*PuscwCsUr09xZ0SJ.gif](https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif)">
+<img  alt="ML" width = 400 src = "[[https://cdn-images-1.medium.com/v2/resize:fit:2600/0*PuscwCsUr09xZ0SJ.gif](https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif)](https://cdn-images-1.medium.com/v2/resize:fit:2600/0*PuscwCsUr09xZ0SJ.gif)">
 
 # Hi There! 👋 <br>
 Welcome to my GitHub repository! Here, you'll find a collection of my projects, experiments, and learning materials related to the fascinating field of machine learning. As an aspiring machine learning engineer and enthusiast, I am constantly exploring and developing my skills to contribute to cutting-edge advancements in artificial intelligence and data science.<BR>

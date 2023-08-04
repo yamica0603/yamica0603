@@ -1,4 +1,5 @@
-<img  alt="ML" width = 400 src = "[[https://cdn-images-1.medium.com/v2/resize:fit:2600/0*PuscwCsUr09xZ0SJ.gif](https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif)](https://cdn-images-1.medium.com/v2/resize:fit:2600/0*PuscwCsUr09xZ0SJ.gif)">
+
+![NN](https://github.com/yamica0603/yamica0603/assets/73203103/0ab726a8-a3b7-4204-8b52-b47457993c6a)
 
 # Hi There! 👋 <br>
 Welcome to my GitHub repository! Here, you'll find a collection of my projects, experiments, and learning materials related to the fascinating field of machine learning. As an aspiring machine learning engineer and enthusiast, I am constantly exploring and developing my skills to contribute to cutting-edge advancements in artificial intelligence and data science.<BR>

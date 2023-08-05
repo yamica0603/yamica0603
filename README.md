@@ -5,6 +5,7 @@
 Welcome to my GitHub repository! Here, you'll find a collection of my projects, experiments, and learning materials related to the fascinating field of machine learning. As an aspiring machine learning engineer and enthusiast, I am constantly exploring and developing my skills to contribute to cutting-edge advancements in artificial intelligence and data science.<BR>
 # 💫 About Me:
 <br>My name is Yamini Singh, and I am passionate about leveraging the power of machine learning algorithms and deep learning models to solve real-world problems. I have a background in Computer Science and Engineering with specialization in Health Informatics and have been actively involved in various machine learning communities. My goal is to keep pushing the boundaries of AI research while also creating practical applications that positively impact society.
+- 🌱 I’m currently learning Python, Deep learning concepts
 
 
 ## 🌐 Socials:

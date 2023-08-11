@@ -6,7 +6,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my projects, 
 # 💫 About Me:
 <br>My name is Yamini Singh, and I am passionate about leveraging the power of machine learning algorithms and deep learning models to solve real-world problems. I have a background in Computer Science and Engineering with specialization in Health Informatics and have been actively involved in various machine learning communities. My goal is to keep pushing the boundaries of AI research while also creating practical applications that positively impact society.
 - 🌱 I’m currently learning Python, Deep learning concepts
-
+- 👯 I’m looking to collaborate on Deep learning Projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yamini-singh-775a2b1bb/) 
